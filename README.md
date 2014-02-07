@@ -5,7 +5,7 @@ Show hand on mobile presentation
 
 Demo
 -----------
-Demo: http://www.itabbar.com/itabbar/demo.html (on desktop test on Chrome or Safari)
+Demo: http://htmlpreview.github.io/?https://raw.github.com/onigetoc/JQHand/jqhand-demo/index.html
 
 Quick start
 -----------
